@@ -35,3 +35,7 @@
 
 ![](img/tanque_evi.png)
 
+## Evidencia Ahorcado
+
+![](img/ahorcado_evi.png)
+
