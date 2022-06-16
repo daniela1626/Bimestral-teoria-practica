@@ -19,6 +19,11 @@
 ![](img/10.png)
 ![](img/11.png)
 ![](img/13.png)
+![](img/e14.png)
+![](img/e15.png)
+![](img/e16.png)
+![](img/e17.png)
+![](img/e18.png)
 
 
 
